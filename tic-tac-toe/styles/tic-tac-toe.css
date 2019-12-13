@@ -1,0 +1,38 @@
+h1 {
+    text-align: center;
+}
+
+td {
+    width: 50px;
+    height: 50px;
+}
+
+table {
+    margin: auto;
+}
+
+.vertical {
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+}
+
+.horizontal {
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
+/* Also works without classes in the HTML file:
+
+tr td:nth-child(2) {
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+}
+
+tr:nth-of-type(2) td {
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
+***This method could cause problems with other tables on the page though***
+
+*/
