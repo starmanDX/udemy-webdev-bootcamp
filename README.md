@@ -13,3 +13,4 @@ Practice projects for the Udemy Web Developer Bootcamp.
 8) JS Stalker exercise - completed and uploaded 12/16/2019
 9) JS Doorman exercise - completed and uploaded 12/17/2019
 10) JS While Loops problems - completed and uploaded 12/18/19
+11) JS For Loops problems -  completed and uploaded 12/18/19
