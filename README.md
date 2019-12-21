@@ -16,3 +16,4 @@ Practice projects for the Udemy Web Developer Bootcamp.
 11) JS For Loops problems -  completed and uploaded 12/18/19
 12) JS Functions problems - completed and uploaded 12/18/19
 13) JS Todo list exercise - completed and uploaded 12/19/19
+14) JS Arrays problem - completed and uploaded 12/20/19
