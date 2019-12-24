@@ -19,4 +19,5 @@ Practice projects for the Udemy Web Developer Bootcamp.
 14) JS Arrays problem - completed and uploaded 12/20/19
 15) JS movieDB exercise - completed and uploaded 12/21/19
 16) JS Color Toggle exercise - completed and uploaded 12/22/19
-17) Score Keeper exercise - completed and uploaded 12/22/19
+17) Score Keeper exercise - completed and uploaded 12/23/19
+18) Color Game exercise - completed and uploaded 12/24/19
