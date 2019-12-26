@@ -7,41 +7,33 @@ function init() {
     completeTodo();
 
     function deleteTodo() {
-        $("ul").on("click", ".fa-trash-alt", function (e) {
+        $("ul").on("click", "li span", function (e) {
+            $(this).parent().fadeOut(500, function () {
+                $(this).remove();
+            });
             e.stopPropagation();
-            alert("clicked x")
-            //$(this).parent().remove()
         });
     }
     deleteTodo();
 
-    function showTrash() {
-        $("li").on("mouseenter", function () {
-            $(this).children(".fa-trash-alt").animate({
-                width: "toggle"
-            })
-        })
-    }
-    showTrash();
-
-    function hideTrash() {
-        $("li").on("mouseleave", function () {
-            $(this).children(".fa-trash-alt").animate({
-                width: "toggle"
-            })
-        })
-    }
-    hideTrash();
-
     function addTodo() {
         $("input").on("keypress", function (e) {
-            if (e.which == 13) {
-                $("ul").append('<li><i class="fas fa-trash-alt"></i> ' + $(this).val() + '</li>');
+            if (e.which === 13) {
+                $("ul").append('<li><span><i class="far fa-trash-alt"></i></span> ' + $(this).val() + '</li>');
+                $(this).val("");
             };
         });
     }
-    addTodo();  
+    addTodo();
+
+    function toggleInput() {
+        $(".fas").on("click", function () {
+            $("input").fadeToggle();
+            $(this).toggleClass("fa-plus")
+            $(this).toggleClass("fa-minus")
+        });
+    }
+    toggleInput();
 }
 
 init();
-
