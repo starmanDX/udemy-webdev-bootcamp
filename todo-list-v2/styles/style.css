@@ -1,30 +1,84 @@
 body {
-    background-color: lightsteelblue;
+    background: linear-gradient(90deg, #2BC0E4 10%, #EAECC6 90%);
+    background: --webkit-linear-gradient(90deg, #2BC0E4 10%, #EAECC6 90%);
+    background: --moz-linear-gradient(90deg, #2BC0E4 10%, #EAECC6 90%);
+    font-family: "Roboto";
+}
+
+.container {
+    width: 360px;
+    margin: 100px auto;
+    background: #E0E0E0;
+    box-shadow: 0 0 3px rgba(0, 0, 0, 0.1);
 }
 
 h1 {
-    background-color: steelblue;
+    background-color: #2980b9;
+    color: #F7F7F7;
     margin: 0;
+    padding: 10px 20px;
+    text-transform: uppercase;
+    font-size: 24px;
+    font-weight: normal;
 }
 
-.container  {
-    width: 360px;
-    margin: 100px auto;
-    background-color: white;
+input {
+    font-size: 18px;
+    background-color: #E0E0E0;
+    width: 100%;
+    padding: 13px 13px 13px 20px;
+    border: none;
+    box-sizing: border-box;
+    box-sizing: --webkit-border-box;
+    box-sizing: --moz-border-box;
+    color: #2980b9;
+    display: none;
+}
+
+input:focus {
+    background: #F7F7F7;
+    outline: 2px solid #2980b9;
+
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    height: 40px;
+    line-height: 40px;
+    background-color: #F7F7F7;
+}
+
+li:nth-child(2n) {
+    background-color: #E0E0E0;
+}
+
+li span {
+    background-color: #E74C3C;
+    color: #F7F7F7;
+    height: 40px;
+    margin-right: 20px;
+    text-align: center;
+    width: 0px;
+    display: inline-block;
+    transition: 0.2s linear;
+    opacity: 0;
+}
+
+li:hover span {
+    width: 40px;
+    opacity: 1.0;
+}
+
+.fas {
+    float: right;
 }
 
 .completed {
     color: gray;
     text-decoration: line-through;
-}
-
-li {
-    list-style-type: none;
-}
-
-.fa-trash-alt {
-    display: none;
-    background-color: red;
-    color:white;
-    width: 10%;
 }
