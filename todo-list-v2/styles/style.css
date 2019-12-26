@@ -1,0 +1,30 @@
+body {
+    background-color: lightsteelblue;
+}
+
+h1 {
+    background-color: steelblue;
+    margin: 0;
+}
+
+.container  {
+    width: 360px;
+    margin: 100px auto;
+    background-color: white;
+}
+
+.completed {
+    color: gray;
+    text-decoration: line-through;
+}
+
+li {
+    list-style-type: none;
+}
+
+.fa-trash-alt {
+    display: none;
+    background-color: red;
+    color:white;
+    width: 10%;
+}
