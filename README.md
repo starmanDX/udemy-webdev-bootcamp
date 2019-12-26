@@ -21,3 +21,4 @@ Practice projects for the Udemy Web Developer Bootcamp.
 16) JS Color Toggle exercise - completed and uploaded 12/22/19
 17) Score Keeper exercise - completed and uploaded 12/23/19
 18) Color Game exercise - completed and uploaded 12/24/19
+19) Todo List V2 project - initial progress uploaded 12/25/19
