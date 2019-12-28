@@ -23,4 +23,5 @@ Practice projects for the Udemy Web Developer Bootcamp.
 18) Color Game exercise - completed and uploaded 12/24/19
 19) Todo List V2 project - initial progress uploaded 12/25/19, completed 12/26/19
 20) Patatap Clone project - completed and uploaded 12/27/19
-21) Grader exercise - completed and uploaded 12/28/19
+21) Grader exercise - completed and uploaded 12/28/19 (Uses 'cat-me' dependency)
+22) listProducts exercise - completed and uploaded 12/28/19 (Uses 'faker' dependency)
