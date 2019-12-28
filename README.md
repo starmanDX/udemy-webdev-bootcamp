@@ -22,3 +22,4 @@ Practice projects for the Udemy Web Developer Bootcamp.
 17) Score Keeper exercise - completed and uploaded 12/23/19
 18) Color Game exercise - completed and uploaded 12/24/19
 19) Todo List V2 project - initial progress uploaded 12/25/19
+20) Patatap Clone project - completed and uploaded 12/27/19
