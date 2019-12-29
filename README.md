@@ -25,3 +25,4 @@ Practice projects for the Udemy Web Developer Bootcamp.
 20) Patatap Clone project - completed and uploaded 12/27/19
 21) Grader exercise - completed and uploaded 12/28/19
 22) listProducts exercise - completed and uploaded 12/28/19 (Uses 'faker' dependency)
+23) First Express App exercise - completed and uploaded 12/29/19
