@@ -28,3 +28,4 @@ Practice projects for the Udemy Web Developer Bootcamp.
 23) First Express App exercise - completed and uploaded 12/29/19
 24) Routes Intro exercise - completed and uploaded 12/29/19
 25) Express Basics exercise - completed and uploaded 12/29/19
+26) EJS Demo exercise - completed and uploaded 12/30/19
