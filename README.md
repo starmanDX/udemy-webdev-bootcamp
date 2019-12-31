@@ -26,3 +26,5 @@ Practice projects for the Udemy Web Developer Bootcamp.
 21) Grader exercise - completed and uploaded 12/28/19
 22) listProducts exercise - completed and uploaded 12/28/19 (Uses 'faker' dependency)
 23) First Express App exercise - completed and uploaded 12/29/19
+24) Routes Intro exercise - completed and uploaded 12/29/19
+25) Express Basics exercise - completed and uploaded 12/29/19
