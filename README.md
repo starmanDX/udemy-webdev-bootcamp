@@ -32,3 +32,4 @@ Practice projects for the Udemy Web Developer Bootcamp.
 27) Post Requests Demo exercise - completed and uploaded 12/31/19
 28) YelpCamp V1 project - completed and uploaded 1/1/20
 29) RESTful Blog project - completed and uploaded 1/2/20
+29) YelpCamp V2 project - completed and uploaded 1/3/20
