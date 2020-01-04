@@ -35,3 +35,4 @@ Practice projects for the Udemy Web Developer Bootcamp.
 29) YelpCamp V2 project - completed and uploaded 1/3/20
 30) YelpCamp V3 project - completed and uploaded 1/3/20
 31) YelpCamp V4 project - completed and uploaded 1/3/20
+32) YelpCamp V5 project - completed and uploaded 1/4/20
