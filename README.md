@@ -45,3 +45,4 @@ Practice projects for the Udemy Web Developer Bootcamp.
 39) YelpCamp V11 project - completed and uploaded 1/7/20
 40) YelpCamp V12 project - completed and uploaded 1/7/20
 41) DeployingDemo exercise - completed and uploaded 1/8/20
+42) YelpCamp V12Deployed project - completed and uploaded 1/9/20
